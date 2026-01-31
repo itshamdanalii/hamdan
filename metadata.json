@@ -1,0 +1,5 @@
+{
+  "name": "ShopBill Pro",
+  "description": "A professional, offline-capable billing and inventory management software for small shops. Features include automated billing, expense tracking, detailed reporting, and PDF/Excel exports.",
+  "requestFramePermissions": []
+}
